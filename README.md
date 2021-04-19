@@ -4,10 +4,10 @@
 
 I am a molecular neuroscientist and computer programmer. I aspire to be a
 biologist that is competent in statistics. I aim to be a better
-neuroscientist using computer programing.
+neuroscientist using computer programming.
 
 In my PhD, I studied networks of proteins composed of interacting
-communties of protins that together compose cellular organelles like the synapse and how mutations in these
+communities of proteins that together compose cellular organelles like the synapse and how mutations in these
 genes disrupt these networks, result in changes in biological function, and
 ultimately manifest as human disorders. I am broadly interested in the study of
 proteins and cells at multiple levels.
