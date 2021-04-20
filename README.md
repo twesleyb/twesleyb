@@ -7,7 +7,7 @@ biologist that is competent in statistics. I aim to be a better scientist using
 computer programming.
 
 In my PhD, I studied the proteome of the brain and how networks of interacting
-proteins compose cellular organelles like the neuronal synapse.  Mutations in
-the genes encoding these proteins result in changes in biological function, and
-can ultimately manifest as human disease. I am broadly interested in the study of
+proteins compose cellular organelles like the neuronal synapse.  Genetic mutations in
+the genes encoding these proteins can result in changes in biological function, and
+may ultimately manifest as human disease. I am broadly interested in the study of
 proteins, cells, and organisms at multiple levels. 
