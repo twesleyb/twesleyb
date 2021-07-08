@@ -15,8 +15,10 @@ mechanisms underlying health and disease at the level of proteins, cells, and
 organisms from yeast to plants.
 
 ## My expertise
+
 _please see my [resume](https://github.com/twesleyb/BradshawCV/resume/resume.pdf) and [CV](https://github.com/twesleyb/BradshawCV/cv/cv.pdf)_
-* Spatial proteomics (subcellular fractionation + TMT proteomics) for high-throughput protein subcellular localization prediction: [SwipProteomics](https://github.com/twesleyb/SwipProteomics).
+
+* Spatial proteomics (subcellular fractionation + TMT proteomics) for high-throughput protein subcellular localization prediction: [SwipProteomics](https://github.com/soderling-lab/SwipProteomics).
 * Design, execution, and analysis of BioID proximity proteomics for identification of hard-to-reach subcellular proteomes, e.g. the inhibitory post-synaptic density [(iPSD)](https://github.com/soderling-lab/Uezu2016).
 * Design and analysis of TMT multiplex proteomics for disease target identification: [SynaptopathyProteomics](https://github.com/soderling-lab/SynaptopathyProteomics).
 * Constructing protein-protein interaction networks towards understanding biological networks [(getPPIs)](https://github.com/soderling-lab/getPPIs).
@@ -28,4 +30,16 @@ _please see my [resume](https://github.com/twesleyb/BradshawCV/resume/resume.pdf
 * Pathway and gene set enrichment analysis [(geneLists)](https://github.com/soderling-lab/geneLists).
 
 ## Always learning
-R, Python, Julia, Bash, Javascript, HTML, CSS, LaTeX...
+R, Python, Julia, Bash, JavaScript, HTML, CSS, LaTeX...
+
+```
+          /\
+         /**\
+        /****\   /\
+       /      \ /**\
+      /  /\    /    \        /\    /\  /\      /\            /\/\/\  /\
+     /  /  \  /      \      /  \/\/  \/  \  /\/  \/\  /\  /\/ / /  \/  \
+    /  /    \/ /\     \    /    \ \  /    \/ /   /  \/  \/  \  /    \   \
+   /  /      \/  \/\   \  /      \    /   /    \
+__/__/_______/___/__\___\__________________________________________________
+```
