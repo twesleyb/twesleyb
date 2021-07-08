@@ -42,5 +42,5 @@ R, Python, Julia, Bash, JavaScript, HTML, CSS, LaTeX...
     /  /    \/ /\     \    /    \ \  /    \/ /   /  \/  \/  \  /    \   \
    /  /      \/  \/\   \  /      \    /   /    \
 __/__/_______/___/__\___\__________________________________________________
-    The mountains are calling and I must go ... John Muir, Sept 03 1873   
+               The mountains are calling and I must go [...]                  
 ```
