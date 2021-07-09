@@ -31,16 +31,3 @@ _please see my [resume](https://github.com/twesleyb/BradshawCV/resume/resume.pdf
 
 ## Always learning
 R, Python, Julia, Bash, JavaScript, HTML, CSS, LaTeX...
-
-```
- /\
-/**\
-****\   /\
-     \ /**\
-/\    /    \        /\    /\  /\      /\
-  \  /      \      /  \/\/  \/  \  /\/  \
-   \/ /\     \    /    \ \  /    \/ /   
-    \/  \/\   \  /      \    /   /    \
-____/___/__\___\_________________________
-The mountains are calling and I must go.
-```
