@@ -42,5 +42,5 @@ R, Python, Julia, Bash, JavaScript, HTML, CSS, LaTeX...
    \/ /\     \    /    \ \  /    \/ /   
     \/  \/\   \  /      \    /   /    \
 ____/___/__\___\_________________________
- The mountains are calling and I must go 
+The mountains are calling and I must go.
 ```
