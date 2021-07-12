@@ -18,8 +18,8 @@ organisms from yeast to plants.
 
 _please see my [resume](https://github.com/twesleyb/BradshawCV/resume/resume.pdf) and [CV](https://github.com/twesleyb/BradshawCV/cv/cv.pdf)_
 
-* Spatial proteomics (subcellular fractionation + TMT proteomics) for high-throughput protein subcellular localization prediction: [SwipProteomics](https://github.com/soderling-lab/SwipProteomics).
-* Design, execution, and analysis of BioID proximity proteomics for identification of hard-to-reach subcellular proteomes, e.g. the inhibitory post-synaptic density [(iPSD)](https://github.com/soderling-lab/Uezu2016).
+* Spatial proteomics (subcellular fractionation + TMT proteomics) for high-throughput prediction of protein subcellular localization: [SwipProteomics](https://github.com/soderling-lab/SwipProteomics).
+* Design, execution, and analysis of BioID proximity proteomics for identification of hard-to-reach subcellular sites, e.g. the inhibitory post-synaptic density [(iPSD)](https://github.com/soderling-lab/Uezu2016).
 * Design and analysis of TMT multiplex proteomics for disease target identification: [SynaptopathyProteomics](https://github.com/soderling-lab/SynaptopathyProteomics).
 * Constructing protein-protein interaction networks towards understanding biological networks [(getPPIs)](https://github.com/soderling-lab/getPPIs).
 * Analysis of differential protein abundance using linear and linear mixed-effects models: [tidyProt](https://github.com/soderling-lab/tidyProt).
