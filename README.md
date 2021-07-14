@@ -16,7 +16,7 @@ organisms from yeast to plants.
 
 ## My expertise
 
-_please see my [resume](https://github.com/twesleyb/BradshawCV/resume/resume.pdf) and [CV](https://github.com/twesleyb/BradshawCV/cv/cv.pdf)_
+_please see my_ [resume](https://github.com/twesleyb/BradshawCV/blob/master/resume/resume.pdf) _and_ [CV](https://github.com/twesleyb/BradshawCV/blob/master/cv/cv.pdf)
 
 * Spatial proteomics (subcellular fractionation + TMT proteomics) for high-throughput prediction of protein subcellular localization: [SwipProteomics](https://github.com/soderling-lab/SwipProteomics).
 * Design, execution, and analysis of BioID proximity proteomics for identification of hard-to-reach subcellular sites, e.g. the inhibitory post-synaptic density [(iPSD)](https://github.com/soderling-lab/Uezu2016).
