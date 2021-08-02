@@ -30,7 +30,7 @@ _please see my_ [resume](https://github.com/twesleyb/BradshawCV/blob/master/resu
 * Pathway and gene set enrichment analysis [(geneLists)](https://github.com/soderling-lab/geneLists).
 
 ## Always learning
-R, Python, Julia, Bash, JavaScript, HTML, CSS, LaTeX...
+R, Python, Julia, Bash, JavaScript, HTML, CSS, RMarkdown, LaTeX...
 
 ```
 
